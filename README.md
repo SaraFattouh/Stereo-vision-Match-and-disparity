@@ -7,7 +7,7 @@ Read images using OpenCV or a similar tool.
 Design and implement these stereo-matching schemes:
 - Naive stereo matching.
 - Dynamic programming approach.
-- 
+
 Note: the parameters (window size, weigths) tunable -- GUI or commandline!
 Display the output disparity images (e.g. using OpenCV).
 
