@@ -1,0 +1,17 @@
+- create an empty folder
+
+- put cmakelist.txt in there
+
+- src folder
+
+- src/main.cpp
+
+    fill cmakelists with the correct content 
+
+    create a build folder in the root folder where cmakelists is
+
+    enter it and run cmake-gui .. from there
+	
+
+
+For this program the input images could be put directly in the build folder.
