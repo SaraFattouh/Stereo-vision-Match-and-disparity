@@ -3,9 +3,9 @@
 Finding disparity image of a stereo pair, the distance between two corresponding points in the left and right image of that stereo pair, by performing matching process for every pixel in the left hand image, finding its match in the right hand frame and computing the distance between them which would end up with an image where every pixel containe the distance/disparity value for that pixel in the left image.
 
 
-#Input: image pair, stereo calibration
+# Input: image pair, stereo calibration
 
-#Output: disparity image, 3D representation
+# Output: disparity image, 3D representation
 
 Parts of the program:
 - There is a CMakeLists.txt file for compilation.
