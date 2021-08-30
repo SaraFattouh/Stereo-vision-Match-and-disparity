@@ -50,7 +50,7 @@ And a right image
 
 
 
-By applying matching process between each pixal in the left image and the corresponding pixels in the right image and calculating the distance between pixels values (the disparities) you should end up with images that look like this:
+By applying matching process between each pixel in the left image and the corresponding pixels in the right image and calculating the distance between pixels values (the disparities) you should end up with images that look like this:
 
 
 
